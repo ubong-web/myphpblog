@@ -1,2 +1,2 @@
 # myphpblog
-phpcms
+PHP Content Management System
